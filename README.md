@@ -1,24 +1,54 @@
 # CareAI Hodiny
 
-Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
+Jednoduchá aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 
-<h2>Screenshoty</h2>
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Language](https://img.shields.io/badge/language-CZ%20%7C%20EN-blue)
+![Status](https://img.shields.io/badge/status-Active-orange)
 
-<p align="center">
-  <img src="screenshots/employee-workday-form.jpg" width="250">
-  <img src="screenshots/monthly-calendar-view.jpg" width="250">
-  <img src="screenshots/monthly-list-view.jpg" width="250">
-</p>
+---
 
-<p align="center">
-  <img src="screenshots/settings-profile.jpg" width="250">
-  <img src="screenshots/settings-backup.jpg" width="250">
-  <img src="screenshots/about-app.jpg" width="250">
-</p>
+## O aplikaci
 
-<p align="center">
-  <img src="screenshots/english-localization.jpg" width="250">
-</p>
+CareAI Hodiny je jednoduchá a přehledná aplikace pro evidenci pracovní doby zaměstnanců i OSVČ.
+
+Aplikace umožňuje zapisovat odpracované hodiny, sledovat měsíční přehledy, ukládat zálohy dat a pracovat v českém i anglickém jazyce.
+
+Data jsou ukládána lokálně v zařízení uživatele bez nutnosti registrace nebo cloudového účtu.
+
+---
+
+## Screenshoty
+
+<h3>Denní zápis zaměstnance</h3>
+
+<img src="screenshots/employee-workday-form.jpg" width="300">
+
+<h3>Měsíční kalendář</h3>
+
+<img src="screenshots/monthly-calendar-view.jpg" width="300">
+
+<h3>Měsíční seznam</h3>
+
+<img src="screenshots/monthly-list-view.jpg" width="300">
+
+<h3>Nastavení profilu</h3>
+
+<img src="screenshots/settings-profile.jpg" width="300">
+
+<h3>Záloha dat</h3>
+
+<img src="screenshots/settings-backup.jpg" width="300">
+
+<h3>O aplikaci</h3>
+
+<img src="screenshots/about-app.jpg" width="300">
+
+<h3>Anglická lokalizace</h3>
+
+<img src="screenshots/english-localization.jpg" width="300">
+
+---
 
 ## Hlavní funkce
 
@@ -28,8 +58,36 @@ Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 - Režim zaměstnanec
 - Režim OSVČ
 - CZ/EN lokalizace
-- Export a záloha dat
-- Android aplikace přes Capacitor++
+- Export dat
+- Import dat
+- Offline provoz
+- Android aplikace vytvořená pomocí Capacitoru
+
+---
+
+## Lokalizace
+
+Aplikace aktuálně podporuje:
+
+- 🇨🇿 Češtinu
+- 🇬🇧 Angličtinu
+
+Jazyk lze přepínat přímo v aplikaci a nastavení se automaticky ukládá.
+
+---
+
+## Ukládání dat
+
+Veškerá data jsou ukládána lokálně v zařízení uživatele.
+
+Podporované funkce:
+
+- Export kompletní zálohy
+- Import zálohy
+- Přenos dat mezi zařízeními
+- Offline používání bez internetu
+
+---
 
 ## Technologie
 
@@ -39,8 +97,24 @@ Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 - Capacitor
 - Android Studio
 
+---
+
 ## O projektu
 
-CareAI Hodiny je můj vlastní projekt, který vyvíjím od návrhu přes testování až po publikaci na Google Play.
+CareAI Hodiny je osobní projekt vyvíjený od prvního návrhu přes programování, testování až po publikaci na Google Play.
 
-Cílem aplikace je nabídnout jednoduchý nástroj pro evidenci pracovní doby zaměstnanců i OSVČ.
+Cílem projektu je nabídnout jednoduchý nástroj pro evidenci pracovní doby zaměstnanců i OSVČ bez zbytečně složitých funkcí.
+
+Projekt je průběžně rozšiřován na základě zpětné vazby od testerů.
+
+---
+
+## Autor
+
+**Jakub Urbánek**
+
+Projekt: CareAI Hodiny
+
+Facebook: https://facebook.com/careai.cz
+
+E-mail: info@careai.cz
