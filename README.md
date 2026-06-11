@@ -2,36 +2,23 @@
 
 Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 
-## Screenshoty
+<h2>Screenshoty</h2>
 
-### Denní zápis zaměstnance
+<p align="center">
+  <img src="screenshots/employee-workday-form.jpg" width="250">
+  <img src="screenshots/monthly-calendar-view.jpg" width="250">
+  <img src="screenshots/monthly-list-view.jpg" width="250">
+</p>
 
-![Employee Workday Form](screenshots/employee-workday-form.jpg)
+<p align="center">
+  <img src="screenshots/settings-profile.jpg" width="250">
+  <img src="screenshots/settings-backup.jpg" width="250">
+  <img src="screenshots/about-app.jpg" width="250">
+</p>
 
-### Měsíční kalendář
-
-![Monthly Calendar View](screenshots/monthly-calendar-view.jpg)
-
-### Měsíční seznam
-
-![Monthly List View](screenshots/monthly-list-view.jpg)
-
-### Nastavení profilu
-
-![Settings Profile](screenshots/settings-profile.jpg)
-
-### Záloha dat
-
-![Settings Backup](screenshots/settings-backup.jpg)
-
-### O aplikaci
-
-![About App](screenshots/about-app.jpg)
-
-### Anglická lokalizace
-
-![English Localization](screenshots/english-localization.jpg)
-
+<p align="center">
+  <img src="screenshots/english-localization.jpg" width="250">
+</p>
 
 ## Hlavní funkce
 
@@ -42,7 +29,7 @@ Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 - Režim OSVČ
 - CZ/EN lokalizace
 - Export a záloha dat
-- Android aplikace přes Capacitor
+- Android aplikace přes Capacitor++
 
 ## Technologie
 
