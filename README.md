@@ -2,6 +2,11 @@
 
 Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 
+## Screenshoty
+
+Níže jsou ukázky aplikace CareAI Hodiny.
+
+
 ## Hlavní funkce
 
 - Evidence odpracovaných hodin
