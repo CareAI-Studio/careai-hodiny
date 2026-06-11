@@ -4,7 +4,33 @@ Aplikace pro evidenci pracovní doby zaměstnanců a OSVČ.
 
 ## Screenshoty
 
-Níže jsou ukázky aplikace CareAI Hodiny.
+### Denní zápis zaměstnance
+
+![Employee Workday Form](screenshots/employee-workday-form.jpg)
+
+### Měsíční kalendář
+
+![Monthly Calendar View](screenshots/monthly-calendar-view.jpg)
+
+### Měsíční seznam
+
+![Monthly List View](screenshots/monthly-list-view.jpg)
+
+### Nastavení profilu
+
+![Settings Profile](screenshots/settings-profile.jpg)
+
+### Záloha dat
+
+![Settings Backup](screenshots/settings-backup.jpg)
+
+### O aplikaci
+
+![About App](screenshots/about-app.jpg)
+
+### Anglická lokalizace
+
+![English Localization](screenshots/english-localization.jpg)
 
 
 ## Hlavní funkce
