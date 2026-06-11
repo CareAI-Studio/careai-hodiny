@@ -20,35 +20,21 @@ Data jsou ukládána lokálně v zařízení uživatele bez nutnosti registrace 
 
 ## Screenshoty
 
-<h3>Denní zápis zaměstnance</h3>
+<p align="center">
+  <img src="screenshots/employee-workday-form.jpg" width="250">
+  <img src="screenshots/monthly-calendar-view.jpg" width="250">
+  <img src="screenshots/monthly-list-view.jpg" width="250">
+</p>
 
-<img src="screenshots/employee-workday-form.jpg" width="300">
+<p align="center">
+  <img src="screenshots/settings-profile.jpg" width="250">
+  <img src="screenshots/settings-backup.jpg" width="250">
+  <img src="screenshots/about-app.jpg" width="250">
+</p>
 
-<h3>Měsíční kalendář</h3>
-
-<img src="screenshots/monthly-calendar-view.jpg" width="300">
-
-<h3>Měsíční seznam</h3>
-
-<img src="screenshots/monthly-list-view.jpg" width="300">
-
-<h3>Nastavení profilu</h3>
-
-<img src="screenshots/settings-profile.jpg" width="300">
-
-<h3>Záloha dat</h3>
-
-<img src="screenshots/settings-backup.jpg" width="300">
-
-<h3>O aplikaci</h3>
-
-<img src="screenshots/about-app.jpg" width="300">
-
-<h3>Anglická lokalizace</h3>
-
-<img src="screenshots/english-localization.jpg" width="300">
-
----
+<p align="center">
+  <img src="screenshots/english-localization.jpg" width="250">
+</p>
 
 ## Hlavní funkce
 
