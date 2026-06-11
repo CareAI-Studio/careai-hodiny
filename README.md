@@ -97,10 +97,15 @@ Projekt je průběžně rozšiřován na základě zpětné vazby od testerů.
 
 ## Autor
 
-**Jakub Urbánek**
+Jakub Urbánek
 
 Projekt: CareAI Hodiny
 
-Facebook: https://facebook.com/careai.cz
+GitHub:
+https://github.com/CareAI-Studio/careai-hodiny
 
-E-mail: info@careai.cz
+Facebook:
+https://facebook.com/careai.cz
+
+E-mail:
+info@careai.cz
